@@ -14,8 +14,6 @@ img {
   padding-left: 1px;
   padding-right: 1px;
   padding-bottom: 0.5em;
-  height: 200px;
-    width: 50%;
 }
 
 .photo-container {
@@ -35,33 +33,75 @@ p.bg-primary {
     margin-right: 10px;
 }
 
-#winner-name {
+.winner-name {
     padding-top: 1em;
     padding-bottom: 1em;
     text-align: center;
 }
 
 h1 {
-  color:#00CED1;
-  font-weight:Bold;
-  font-size:80px;
+  color: red;
+  font-weight: bold;
+  font-size: 70px
 }
 
 p {
-  color: Gold;
-  font-size: 30px;
-  font-weight: Bold;
-   font-variant: small-caps;
+  color: DarkGoldenRod;
+  font-weight: bold;
+  font-size: 30px
 }
 
 #about-winner {
-  color: Red;
+  color: Green;
 }
 
 #home-button {
-  color: Blue;
+  color: DarkOrange;
+  font-weight: bold;
 }
 
 #reveal-button {
-  color: #FF00FF;
+  color: Indigo;
+  font-weight: bold;
+}
+
+.text-center {
+  color: LightSlateGray;
+}
+
+cite {
+  color: Sienna;
+  font-weight: bold;
+}
+
+#pic {
+  width: 40%;
+  height: auto;
+}
+
+#tyburn-button {
+  color: red;
+  font-weight: bold;
+}
+
+#fleet-button {
+  color: blue;
+  font-weight: bold;
+}
+
+h4 {
+  color: DarkBlue;
+  font-weight: bold;
+  font-size: 65px;
+}
+
+h5 {
+  color: DarkRed;
+  font-weight: bold;
+  font-size: 65px;
+}
+
+h2 {
+  color: indigo;
+  font-weight: bold;
 }
